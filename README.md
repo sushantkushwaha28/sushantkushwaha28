@@ -19,6 +19,6 @@ I’m a passionate Web Developer on a journey to become a Full-Stack Developer. 
 
 You can follow me on Instagram [https://www.instagram.com/sushant__kushwaha/]
 
-This is my portfolio [https://sushantportfoliox.netlify.app/]
+This is my portfolio [https://sushantdev-portfolio.vercel.app/]
 
 you can connect me on LinkedIn [https://www.linkedin.com/in/sushantkushwaha/]
